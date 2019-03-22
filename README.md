@@ -1,4 +1,4 @@
-# network-compression-papers
+# Network compression and Acceleration Papers
 
 # Survey papers
 
@@ -12,4 +12,23 @@
   1. **Distilling the knowledge in a neural network.** *Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.* [paper]()
   2. **Fitnets: Hints for thin deep nets.** *Adriana Romero, Nicolas Ballas, Samira Ebrahimi Kahou, Antoine Chassang, Carlo Gatta, and Yoshua Bengio.* [paper]()
   3. **Harnessing deep neural networks with logic rules.** *Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, and Eric Xing.* [paper]()
-  4. 
+  4. **Do deep nets really need to be deep?** *Jimmy Ba and Rich Caruana.* [paper]()
+  5. **Do deep convolutional nets really need to be deep and convolutional?** *Gregor Urban, Krzysztof J Geras, Samira Ebrahimi Kahou, Ozlem Aslan, Shengjie Wang, Rich Caruana, Abdelrahman Mohamed, Matthai Philipose, and Matt Richardson.* [paper]()
+  6. **Transferring knowledge from a rnn to a dnn.** *William Chan, Nan Rosemary Ke, and Ian Lane.* [paper]()
+  7. **Face model compression by distilling knowledge from neurons.** *Ping Luo, Zhenyao Zhu, Ziwei Liu, Xiaogang Wang, Xiaoou Tang, et al.* [paper]()
+  8. **Like what you like: Knowledge distill via neuron selectivity transfer.** *Zehao Huang and Naiyan Wang.* 
+  9. **Darkrank: Accelerating deep metric learning via cross sample similarities transfer.** *Yuntao Chen, Naiyan Wang, and Zhaoxiang Zhang.* 
+  10. **Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer.** *Sergey Zagoruyko and Nikos Komodakis.*
+  
+# Network pruning
+
+# Network quantization
+
+# Low rank approximation
+
+# Dynamic computation
+
+# Compact network design
+
+# Others
+
