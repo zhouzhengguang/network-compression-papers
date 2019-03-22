@@ -59,34 +59,32 @@
   1. **Learning efficient convolutional networks through network slimming.** *Zhuang Liu, Jianguo Li, Zhiqiang Shen, Gao Huang, Shoumeng Yan, and Changshui Zhang.*
   1. **Channel pruning for accelerating very deep neural networks.** *Yihui He, Xiangyu Zhang, and Jian Sun.*
   1. **Incomplete dot products for dynamic computation scaling in neural network inference.** *H. T. Kung Bradley McDanel, Surat Teerapittayanon.*
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **To prune, or not to prune: exploring the efficacy of pruning for model compression.** *Michael Zhu and Suyog Gupta.*
+  1. **Data-driven sparse structure selection for deep neural networks.** *Zehao Huang and Naiyan Wang.*
+  1. **Pruning convnets online for efficient specialist models.** *Jia Guo and Miodrag Potkonjak.*
 
 # Network quantization
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **Fixed-point feedforward deep neural network design using weights+1, 0, and- 1.** *Kyuyeon Hwang and Wonyong Sung.*
+  1. **Fixed point quantization of deep convolutional networks.** *Darryl Lin, Sachin Talathi, and Sreekanth Annapureddy.*
+  1. **Binaryconnect: Training deep neural networks with binary weights during propagations.** *Matthieu Courbariaux, Yoshua Bengio, and Jean-Pierre David.*
+  1. **Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.** *Matthieu Courbariaux, Itay Hubara, Daniel Soudry, Ran El-Yaniv, and Yoshua Bengio.*
+  1. **Quantized neural networks: Training neural networks with low precision weights and activations.** *Itay Hubara, Matthieu Courbariaux, Daniel Soudry, Ran El-Yaniv, and Yoshua Bengio.*
+  1. **Xnor-net: Imagenet classification using binary convolutional neural networks.** *Mohammad Rastegari, Vicente Ordonez, Joseph Redmon, and Ali Farhadi.*
+  1. **Bitwise neural networks.** *Minje Kim and Paris Smaragdis.*
   1. **Training quantized nets: A deeper understanding.** *Hao Li, Soham De, Zheng Xu, Christoph Studer, Hanan Samet, and Tom Goldstein.*
   1. **Shiftcnn: Generalized low-precision architecture for inference of convolutional neural networks.** *Denis A. Gudovskiy and Luca Rigazio.*
   1. **Gated xnor networks: Deep neural networks with ternary weights and activations under a unified discretization framework.** *Lei Deng, Peng Jiao, Jing Pei, Zhenzhi Wu, and Guoqi Li.*
   1. **The high-dimensional geometry of binary neural networks.** *Alexander G Anderson and Cory P Berg.*
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **Compressing deep convolutional networks using vector quantization.** *Yunchao Gong, Liu Liu, Ming Yang, and Lubomir Bourdev.*
+  1. **Compression of deep neural networks on the fly.** *Guillaume Soulie, Vincent Gripon, and Maelys Robert.*
+  1. **Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.** *Shuchang Zhou, Yuxin Wu, Zekun Ni, Xinyu Zhou, He Wen, and Yuheng Zou.*
+  1. **Ternary weight networks.** *Fengfu Li, Bo Zhang, and Bin Liu.*
+  1. **Trained ternary quantization.** *Chenzhuo Zhu, Song Han, Huizi Mao, and William J Dally.*
+  1. **Incremental network quantization: Towards lossless cnns with low-precision weights.** *Aojun Zhou, Anbang Yao, Yiwen Guo, Lin Xu, and Yurong Chen.*
+  1. **Quantized convolutional neural networks for mobile devices.** *Jiaxiang Wu, Cong Leng, Yuhang Wang, Qinghao Hu, and Jian Cheng.*
+  1. **Compressing neural networks with the hashing trick.** *Wenlin Chen, James Wilson, Stephen Tyree, Kilian Weinberger, and Yixin Chen.*
+  1. **Scalable and sustainable deep learning via randomized hashing.** *Ryan Spring and Anshumali Shrivastava.*
+  1. **Functional hashing for compressing neural networks.** *Lei Shi, Shikun Feng, et al.*
   1. **** **
   1. **** **
   1. **** **
