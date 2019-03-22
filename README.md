@@ -20,15 +20,23 @@
   9. **Darkrank: Accelerating deep metric learning via cross sample similarities transfer.** *Yuntao Chen, Naiyan Wang, and Zhaoxiang Zhang.* 
   10. **Paying more attention to attention: Improving the performance of convolutional neural networks via attention transfer.** *Sergey Zagoruyko and Nikos Komodakis.*
   11. **Accelerating convolutional neural networks with dominant convolutional kernel and knowledge pre-regression.** *Zhenyang Wang, Zhidong Deng, and Shiyao Wang.*
-  11. **Rocket launching: A universal and efficient framework for training well-performing light net.** *Guorui Zhou, Ying Fan, Runpeng Cui, Weijie Bian, Xiaoqiang Zhu, and Kun Gai.* 
+  12. **Rocket launching: A universal and efficient framework for training well-performing light net.** *Guorui Zhou, Ying Fan, Runpeng Cui, Weijie Bian, Xiaoqiang Zhu, and Kun Gai.* 
   
 # Network pruning
+  1. **Optimal brain damage.** *Yann LeCun, John S Denker, and Sara A Solla.*
+  1. **Second order derivatives for network pruning: Optimal brain surgeon.** *Babak Hassibi, David G Stork, et al.*
   1. 
-  2. 
 
 # Network quantization
 
 # Low rank approximation
+  1. **Predicting parameters in deep learning.** *Misha Denil, Babak Shakibi, Laurent Dinh, Nando de Freitas, et al.*
+  1. **Learning both weights and connections for efficient neural network.** *Song Han, Jeff Pool, John Tran, and William Dally.* 
+  1. **Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.** *Song Han, Huizi Mao, and William J Dally.*
+  1. **Dsd: Dense-sparse-dense training for deep neural networks.** *Song Han, Jeff Pool, Sharan Narang, Huizi Mao, Enhao Gong, Shijian Tang, Erich Elsen, Peter Vajda, Manohar Paluri, John Tran, et al.*
+  1. **Data-free parameter pruning for deep neural networks.** *Suraj Srinivas and R Venkatesh Babu.*
+  1. **Dynamic network surgery for efficient dnns.** *Yiwen Guo, Anbang Yao, and Yurong Chen.*
+  
 
 # Dynamic computation
 
