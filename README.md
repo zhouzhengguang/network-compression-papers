@@ -85,24 +85,24 @@
   1. **Compressing neural networks with the hashing trick.** *Wenlin Chen, James Wilson, Stephen Tyree, Kilian Weinberger, and Yixin Chen.*
   1. **Scalable and sustainable deep learning via randomized hashing.** *Ryan Spring and Anshumali Shrivastava.*
   1. **Functional hashing for compressing neural networks.** *Lei Shi, Shikun Feng, et al.*
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **Compressing convolutional neural networks.** *Wenlin Chen, James T Wilson, Stephen Tyree, Kilian Q Weinberger, and Yixin Chen.*
+  1. **Compressing convolutional neural networks in the frequency domain.** *Wenlin Chen, James Wilson, Stephen Tyree, Kilian Q. Weinberger, and Yixin Chen.*
+  1. **Neural networks with few multiplications.** *Zhouhan Lin, Matthieu Courbariaux, Roland Memisevic, and Yoshua Bengio.*
+  1. **Training binary multilayer neural networks for image classification using expectation backpropagation.** *Zhiyong Cheng, Daniel Soudry, Zexi Mao, and Zhenzhong Lan.*
+  1. **Improving the speed of neural networks on cpus.** *Vincent Vanhoucke, Andrew Senior, and Mark Z Mao.*
+  1. **Soft weight-sharing for neural network compression.** *Karen Ullrich, Edward Meeds, and Max Welling.*
+  1. **Towards the limit of network quantization.** *Yoojin Choi, Mostafa El-Khamy, and Jungwon Lee.*
+  1. **Tensorizing neural networks.** *Alexander Novikov, Dmitrii Podoprikhin, Anton Osokin, and Dmitry P Vetrov.*
+  1. **Deep learning with limited numerical precision.** *Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, and Pritish Narayanan.*
+  1. **Finite precision error analysis of neural network hardware implementations.** *Jordan L Holi and J-N Hwang.*
+  1. **Deep learning with low precision by halfwave gaussian quantization.** *Zhaowei Cai, Xiaodong He, Jian Sun, and Nuno Vasconcelos.*
+  1. **Deep quantization: Encoding convolutional activations with deep generative model.** *Zhaofan Qiu, Ting Yao, and Tao Mei.*
+  1. **Weighted-entropy-based quantization for deep neural networks.** *Junwhan Ahn Eunhyeok Park and Sungjoo Yoo.*
+  1. **Extremely low bit neural network: Squeeze the last bit out with admm.** *Cong Leng, Hao Li, Shenghuo Zhu, and Rong Jin.*
+  1. **Learning accurate low-bit deep neural networks with stochastic quantization.** *Yinpeng Dong, Renkun Ni, Jianguo Li, Yurong Chen, Jun Zhu, and Hang Su.*
+  1. **Adaptive weight compression for memory-efficient neural networks.** *Jong Hwan Ko, Duckhwan Kim, Taesik Na, Jaeha Kung, and Saibal Mukhopadhyay.*
+  1. **Balanced quantization: An effective and efficient approach to quantized neural networks.** *Shu-Chang Zhou, Yu-Zhi Wang, He Wen, Qin-Yao He, and Yu-Heng Zou.*
+  1. **Energy-efficient convnets throughapproximate computing.** *Bert Moons, Bert De Brabandere, Luc Van Gool, and Marian Verhelst.*
   1. **** **
   1. **** **
   1. **** **
