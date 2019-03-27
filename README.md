@@ -62,7 +62,35 @@
   1. **To prune, or not to prune: exploring the efficacy of pruning for model compression.** *Michael Zhu and Suyog Gupta.*
   1. **Data-driven sparse structure selection for deep neural networks.** *Zehao Huang and Naiyan Wang.*
   1. **Pruning convnets online for efficient specialist models.** *Jia Guo and Miodrag Potkonjak.*
-
+  1. **Sparse convolutional neural networks.** *Baoyuan Liu, Min Wang, Hassan Foroosh, Marshall Tappen, and Marianna Pensky.*
+  1. **Group sparse regularization for deep neural networks.** *Simone Scardapane, Danilo Comminiello, Amir Hussain, and Aurelio Uncini.*
+  1. **The power of sparsity in convolutional neural networks.** *Soravit Changpinyo, Mark Sandler, and Andrey Zhmoginov.*
+  1. **Spatially-sparse convolutional neural networks.** *Benjamin Graham.*
+  1. **Shakeout: A new approach to regularized deep neural network training.** *Guoliang Kang, Jun Li, and Dacheng Tao.*
+  1. **Sparse activity and sparse connectivity in supervised learning.** *Markus Thom and Gunther Palm.*
+  1. **Learning structured sparsity in deep neural networks.** *Wei Wen, Chunpeng Wu, Yandan Wang, Yiran Chen, and Hai Li.*
+  1. **Perforatedcnns: Acceleration through elimination of redundant convolutions.** *Mikhail Figurnov, Aizhan Ibraimova, Dmitry P Vetrov, and Pushmeet Kohli.*
+  1. **Training compressed fully-connected networks with a density-diversity penalty.** *Shengjie Wang, Haoran Cai, Jeff Bilmes, and William Noble.*
+  1. **Stochasticnet: Forming deep neural networks via stochastic connectivity.** *Mohammad Javad Shafiee, Parthipan Siva, and Alexander Wong.*
+  1. **Deep roots: Improving cnn efficiency with hierarchical filter groups.** *Yani Ioannou, Duncan Robertson, Roberto Cipolla, and Antonio Criminisi.*
+  1. **Less is more: Towards compact cnns.** *Hao Zhou, Jose M Alvarez, and Fatih Porikli.*
+  1. **More is less: A more complicated network with less inference complexity.** *Xuanyi Dong, Junshi Huang, Yi Yang, and Shuicheng Yan.*
+  1. **Memory bounded deep convolutional networks.** *Maxwell D Collins and Pushmeet Kohli.*
+  1. **Combined group and exclusive sparsity for deep neural networks.** *Jaehong Yoon and Sung Ju Hwang.*
+  1. **On compressing deep models by low rank and sparse decomposition.** *Xiyu Yu, Tongliang Liu, Xinchao Wang, and Dacheng Tao.*
+  1. **Speeding up convolutional neural networks by exploiting the sparsity of rectifier units.** *Shaohuai Shi and Xiaowen Chu.*
+  1. **Alternating direction method of multipliers for sparse convolutional neural networks.** *Farkhondeh Kiaee, Christian Gagn, and Mahdieh Abbasi.*
+  1. **Training sparse neural networks.** *Suraj Srinivas, Akshayvarun Subramanya, and R. Venkatesh Babu.*
+  1. **Dyvedeep: Dynamic variable effort deep neural networks.** *Balaraman Ravindran Anand Raghunathan SanjayGanapathy, Swagath Venkataramani.*
+  1. **Freezeout: Accelerate training by progressively freezing layers.** *Andrew Brock, Theodore Lim, J. M. Ritchie, and Nick Weston.*
+  1. **Convolutional neural networks at constrained time cost.** *Kaiming He and Jian Sun.*
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
+  
+  
+  
 # Network quantization
   1. **Fixed-point feedforward deep neural network design using weights+1, 0, and- 1.** *Kyuyeon Hwang and Wonyong Sung.*
   1. **Fixed point quantization of deep convolutional networks.** *Darryl Lin, Sachin Talathi, and Sreekanth Annapureddy.*
@@ -102,7 +130,30 @@
   1. **Learning accurate low-bit deep neural networks with stochastic quantization.** *Yinpeng Dong, Renkun Ni, Jianguo Li, Yurong Chen, Jun Zhu, and Hang Su.*
   1. **Adaptive weight compression for memory-efficient neural networks.** *Jong Hwan Ko, Duckhwan Kim, Taesik Na, Jaeha Kung, and Saibal Mukhopadhyay.*
   1. **Balanced quantization: An effective and efficient approach to quantized neural networks.** *Shu-Chang Zhou, Yu-Zhi Wang, He Wen, Qin-Yao He, and Yu-Heng Zou.*
-  1. **Energy-efficient convnets throughapproximate computing.** *Bert Moons, Bert De Brabandere, Luc Van Gool, and Marian Verhelst.*
+  1. **Energy-efficient convnets through approximate computing.** *Bert Moons, Bert De Brabandere, Luc Van Gool, and Marian Verhelst.*
+  1. **Binarized convolutional neural networks with separable filters for efficient hardware acceleration.** *Jeng Hau Lin, Tianwei Xing, Ritchie Zhao, Zhiru Zhang, Mani Srivastava, Zhuowen Tu, and Rajesh K.
+Gupta.*
+  1. **Performance guaranteed network acceleration via high-order residual quantization.** *Wenjun Zhang XiaoKang Yang Wen Gao Zefan Li, Bingbing Ni.*
+  1. **Loss-aware binarization of deep networks.** *Lu Hou, Quanming Yao, and James T Kwok.*
+  1. **Bitnet: Bit-regularized deep neural networks.** *Aswin Raghavan, Mohamed Amer, and Sek Chai.*
+  1. **Analytical guarantees on numerical precision of deep neural networks.** *Charbel Sakr, Yongjune Kim, and Naresh Shanbhag.*
+  1. **Mixed low-precision deep learning inference using dynamic fixed point.** *Naveen Mellempudi, Abhisek Kundu, Dipankar Das, Dheevatsa Mudigere, and Bharat Kaul.*
+  1. **Understanding the impact of precision quantization on the accuracy and energy of neural networks.** *Sherief Reda, Sherief Reda, Sherief Reda, Sherief Reda, and Sherief Reda.*
+  1. **Soft-to-hard vector quantization for end-to-end learned compression of images and neural networks.** *Eirikur Agustsson, Fabian Mentzer, Michael Tschannen, Lukas Cavigelli, Radu Timofte, Luca Benini, and
+Luc Van Gool.*
+  1. **Espresso: Efficient forward propagation for bcnns.** *Fabrizio Pedersoli, George Tzanetakis, and Andrea Tagliasacchi.*
+  1. **Intra-layer nonuniform quantization of convolutional neural network.** *Fangxuan Sun, Jun Lin, and Zhongfeng Wang.*
+  1. **Scalable compression of deep neural networks.** *Xing Wang and Jie Liang.*
+  1. **Embedded binarized neural networks.** *Bradley Mcdanel, Surat Teerapittayanon, and H. T Kung.*
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
   1. **** **
   1. **** **
   1. **** **
@@ -115,35 +166,35 @@
 
 # Low rank approximation
   1. **Predicting parameters in deep learning.** *Misha Denil, Babak Shakibi, Laurent Dinh, Nando de Freitas, et al.*
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **Learning separable filters.** *Roberto Rigamonti, Amos Sironi, Vincent Lepetit, and Pascal Fua.*
+  1. **Speeding up convolutional neural networks with low rank expansions.** *Max Jaderberg, Andrea Vedaldi, and Andrew Zisserman.*
+  1. **Exploiting linear structure within convolutional networks for efficient evaluation.** *Emily L Denton, Wojciech Zaremba, Joan Bruna, Yann LeCun, and Rob Fergus.*
+  1. **Speeding-up convolutional neural networks using fine-tuned cp-decomposition.** *Vadim Lebedev, Yaroslav Ganin, Maksim Rakhuba, Ivan Oseledets, and Victor Lempitsky.*
+  1. **Efficient and accurate approximations of nonlinear convolutional networks.** *Xiangyu Zhang, Jianhua Zou, Xiang Ming, Kaiming He, and Jian Sun.*
+  1. **Compression of fully-connected layer in neural network by kronecker product.** *Shuchang Zhou and Jia-Nan Wu.*
+  1. **Restructuring of deep neural network acoustic models with singular value decomposition.** *Jian Xue, Jinyu Li, and Yifan Gong.*
+  1. **An exploration of parameter redundancy in deep networks with circulant projections.** *Yu Cheng, Felix X Yu, Rogerio S Feris, Sanjiv Kumar, Alok Choudhary, and Shi-Fu Chang.*
+  1. **Convolutional neural networks with low-rank regularization.** *Cheng Tai, Tong Xiao, Yi Zhang, Xiaogang Wang, et al.*
+  1. **Deep fried convnets.** *Zichao Yang, Marcin Moczulski, Misha Denil, Nando de Freitas, Alex Smola, Le Song, and Ziyu Wang.*
+  1. **Training cnns with low-rank filters for efficient image classification.** *Yani Ioannou, Duncan Robertson, Jamie Shotton, Roberto Cipolla, and Antonio Criminisi.*
+  1. **Factorized convolutional neural networks.** *Min Wang, Baoyuan Liu, and Hassan Foroosh.*
+  1. **Compression of deep convolutional neural networks for fast and low power mobile applications.** *Yong-Deok Kim, Eunhyeok Park, Sungjoo Yoo, Taelim Choi, Lu Yang, and Dongjun Shin.*
+  1. **Accelerating convolutional neural networks for mobile applications.** *Peisong Wang and Jian Cheng.*
+  1. **Decomposeme: Simplifying convnets for end-to-end learning.** *Jose Alvarez and Lars Petersson.*
+  1. **Structured transforms for small-footprint deep learning.** *Vikas Sindhwani, Tara Sainath, and Sanjiv Kumar.*
+  1. **Design of efficient convolutional layers using single intrachannel convolution, topological subdivisioning and spatial bottleneck structure.** *Min Wang, Baoyuan Liu, and Hassan Foroosh.*
+  1. **Low-rank matrix factorization for deep neural network training with high-dimensional output targets.** *Tara N Sainath, Brian Kingsbury, Vikas Sindhwani, Ebru Arisoy, and Bhuvana Ramabhadran.*
+  1. **Low precision neural networks using subband decomposition.** *Sek Chai, Aswin Raghavan, David Zhang, Mohamed Amer, and Tim Shields.*
+  1. **Beyond filters: Compact feature map for portable deep model.** *Yunhe Wang, Chang Xu, Chao Xu, and Dacheng Tao.*
+  1. **Theoretical properties for neural networks with weight matrices of low displacement rank.** *Liang Zhao, Siyu Liao, Yanzhi Wang, Jian Tang, and Bo Yuan.*
+  1. **Coordinating filters for faster deep neural networks.** *Wei Wen, Cong Xu, Chunpeng Wu, Yandan Wang, Yiran Chen, and Hai Li.*
+  1. **Ultimate tensorization: compressing convolutional and fc layers alike.** *Timur Garipov, Dmitry Podoprikhin, Alexander Novikov, and Dmitry Vetrov.*
+  1. **Simplifying deep neural networks for neuromorphic architectures.** *Jaeyong Chung and Taehwan Shin.*
+  1. **Network sketching: Exploiting binary structure in deep cnns.** *Yiwen Guo, Anbang Yao, Hao Zhao, and Yurong Chen.*
+  1. **Improving efficiency in convolutional neural network with multilinear filters.** *Dat Thanh Tran, Alexandros Iosifidis, and Moncef Gabbouj.*
+  1. **Analysis and design of convolutional networks via hierarchical tensor decompositions.** *Nadav Cohen, Or Sharir, Yoav Levine, Ronen Tamari, David Yakira, and Amnon Shashua.*
+  1. **Structured convolution matrices for energye efficient deep learning.** *Rathinakumar Appuswamy, Tapan Nayak, John Arthur, Steven Esser, Paul Merolla, Jeffrey Mckinstry, Timothy Melano, Myron Flickner, and Dharmendra Modha.*
+  1. **Circnn: Accelerating and compressing deep neural networks using block-circulantweight matrices.** *Caiwen Ding, Siyu Liao, Yanzhi Wang, Zhe Li, Ning Liu, Youwei Zhuo, Chao Wang, Xuehai Qian, Yu Bai, and Geng Yuan.*
   1. **** **
   1. **** **
   1. **** **
@@ -165,11 +216,8 @@
   1. **** **
 
 # Dynamic computation
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **Dyvedeep: Dynamic variable effort deep neural networks.** *Sanjay Ganapathy, Swagath Venkataramani, Balaraman Ravindran, and Anand Raghunathan.*
+  1. **Spatially adaptive computation time for residual networks.** *Michael Figurnov, Maxwell D Collins, Yukun Zhu, Li Zhang, Jonathan Huang, Dmitry Vetrov, and Ruslan Salakhutdinov.*
   1. **** **
   1. **** **
   1. **** **
@@ -215,18 +263,19 @@
   1. **** **
   
 # Compact network design
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **Mobilenets: Efficient convolutional neural networks for mobile vision applications.** *Andrew G Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam.*
+  1. **Flattened convolutional neural networks for feedforward acceleration.** *Jonghoon Jin, Aysegul Dundar, and Eugenio Culurciello.*
+  1. **Lcnn: Lookup-based convolutional neural network.** *Hessam Bagherinezhad, Mohammad Rastegari, and Ali Farhadi.*
+  1. **Local binary convolutional neural networks.** *Felix Juefei-Xu, Vishnu Naresh Boddeti, and Marios Savvides.*
+  1. **Squeezenet: Alexnet-level accuracy with 50x fewer parameters and< 0.5 mb model size.** *Forrest N Iandola, Song Han, Matthew W Moskewicz, Khalid Ashraf, William J Dally, and Kurt Keutzer.*
+  1. **A compact dnn: Approaching googlenet-level accuracy of classification and domain adaptation.** *Chunpeng Wu, Wei Wen, Tariq Afzal, Yongmei Zhang, Yiran Chen, and Hai Li.*
+  1. **Shufflenet: An extremely efficient convolutional neural network for mobile devices.** *Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, and Jian Sun.*
+  1. **Deep simnets.** *Nadav Cohen, Or Sharir, and Amnon Shashua.*
+  1. **Densely connected convolutional networks.** *Gao Huang, Zhuang Liu, Kilian Q Weinberger, and Laurens van der Maaten.*
+  1. **Genetic cnn.** *Lingxi Xie and Alan Yuille.*
+  1. **Sep-nets: Small and effective pattern networks.** *Zhe Li, Xiaoyu Wang, Xutao Lv, and Tianbao Yang.*
+  1. **Learning the structure of deep convolutional networks.** *Jiashi Feng and Trevor Darrell.*
+  1. **Convolutional neural fabrics.** *Shreyas Saxena and Jakob Verbeek.*
   1. **** **
   1. **** **
   1. **** **
@@ -273,19 +322,19 @@
   1. **** **
 
 # Others
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+  1. **Group equivariant convolutional networks.** *Taco S Cohen and Max Welling.*
+  1. **Doubly convolutional neural networks.** *Shuangfei Zhai, Yu Cheng, Weining Lu, and Zhongfei Zhang.*
+  1. **Understanding and improving convolutional neural networks via concatenated rectified linear units.** *Wenling Shang, Kihyuk Sohn, Diogo Almeida, and Honglak Lee.*
+  1. **Multi-bias non-linear activation in deep neural networks.** *Hongyang Li, Wanli Ouyang, and Xiaogang Wang.*
+  1. **Exploiting cyclic symmetry in convolutional neural networks.** *Sander Dieleman, Jeffrey De Fauw, and Koray Kavukcuoglu.*
+  1. **Building correlations between filters in convolutional neural networks.** *H. Wang, P. Chen, and S Kwong.*
+  1. **Fast training of convolutional networks through ffts.** *Michael Mathieu, Mikael Henaff, and Yann LeCun.*
+  1. **Fast algorithms for convolutional neural networks.** *Andrew Lavin and Scott Gray.*
+  1. **Fast convolutional nets with fbfft: A gpu performance evaluation.** *Nicolas Vasilache, Jeff Johnson, Michael Mathieu, Soumith Chintala, Serkan Piantino, and Yann LeCun.*
+  1. **Eie: efficient inference engine on compressed deep neural network.** *Song Han, Xingyu Liu, Huizi Mao, Jing Pu, Ardavan Pedram, Mark A Horowitz, and William J Dally.*
+  1. **Cnnpack: packing convolutional neural networks in the frequency domain.** *Yunhe Wang, Chang Xu, Shan You, Dacheng Tao, and Chao Xu.*
+  1. **Low-memory gemm-based convolution algorithms for deep neural networks.** *Andrew Anderson, Aravind Vasudevan, Cormac Keane, and David Gregg.*
+  1. **Convolution in convolution for network in network.** *Y. Pang, M. Sun, X. Jiang, and X. Li.*
   1. **** **
   1. **** **
   1. **** **
