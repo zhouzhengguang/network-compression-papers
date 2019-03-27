@@ -5,6 +5,10 @@
   2. **A survey of model compression and acceleration for deep neural networks.** *Yu Cheng, Duo Wang, Pan Zhou, and Tao Zhang.* [paper](https://arxiv.org/abs/1710.09282)
   3. **An analysis of deep neural network models for practical applications.** *Alfredo Canziani, Adam Paszke, and Eugenio Culurciello.* [paper](https://arxiv.org/abs/1605.07678)
   4. **Deep convolutional neural networks for image classiffication: A comprehensive review.** *Waseem Rawat and Zenghui Wang.* [paper](https://www.mitpressjournals.org/doi/full/10.1162/neco_a_00990)
+  1. **** **
+  1. **** **
+  1. **** **
+  1. **** **
 
 # Knowledge distilling
   1. **Distilling the knowledge in a neural network.** *Geoffrey Hinton, Oriol Vinyals, and Jeff Dean.* [paper]()
@@ -151,18 +155,7 @@ Luc Van Gool.*
   1. **** **
   1. **** **
   1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+
 
 # Low rank approximation
   1. **Predicting parameters in deep learning.** *Misha Denil, Babak Shakibi, Laurent Dinh, Nando de Freitas, et al.*
@@ -204,16 +197,7 @@ Luc Van Gool.*
   1. **** **
   1. **** **
   1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+
 
 # Dynamic computation
   1. **Dyvedeep: Dynamic variable effort deep neural networks.** *Sanjay Ganapathy, Swagath Venkataramani, Balaraman Ravindran, and Anand Raghunathan.*
@@ -225,43 +209,7 @@ Luc Van Gool.*
   1. **** **
   1. **** **
   1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  
+
 # Compact network design
   1. **Mobilenets: Efficient convolutional neural networks for mobile vision applications.** *Andrew G Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, and Hartwig Adam.*
   1. **Flattened convolutional neural networks for feedforward acceleration.** *Jonghoon Jin, Aysegul Dundar, and Eugenio Culurciello.*
@@ -281,45 +229,7 @@ Luc Van Gool.*
   1. **** **
   1. **** **
   1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+
 
 # Others
   1. **Group equivariant convolutional networks.** *Taco S Cohen and Max Welling.*
@@ -338,43 +248,4 @@ Luc Van Gool.*
   1. **** **
   1. **** **
   1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
-  1. **** **
+
